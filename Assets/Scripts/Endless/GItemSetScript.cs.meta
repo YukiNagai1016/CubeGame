@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: c587e6f9df2c5ac4f90f7bfb52672d85
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - item1: {fileID: 21300000, guid: 7bdbef96c7f780748bc4a78ce8b40f68, type: 3}
+  - item2: {fileID: 21300000, guid: 8629232dae5f8d942bbbf0e9e934d6a0, type: 3}
+  - item3: {fileID: 21300000, guid: 9d11ba1d0e35daf49829978a378c6288, type: 3}
+  - item4: {fileID: 21300000, guid: 4c44aa7ec17637d4094ee35815383d1c, type: 3}
+  - item5: {fileID: 21300000, guid: a28357b617618d245810e1c4990d437d, type: 3}
+  - item6: {fileID: 21300000, guid: 48727c68138c35642bc4b2ce8befc7b7, type: 3}
+  - item7: {fileID: 21300000, guid: 647660d883bc25240919fb9716a8d920, type: 3}
+  - item8: {fileID: 21300000, guid: 3f0fadd7b7b48df40b1f980c71754897, type: 3}
+  - itemempty: {fileID: 21300000, guid: 878f9afeea7e7054d86c2462fdf7447a, type: 3}
+  - itemplay: {instanceID: 0}
+  - Player: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
